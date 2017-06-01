@@ -1,0 +1,4 @@
+#Thu Jun 01 17:47:40 CST 2017
+base.0=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

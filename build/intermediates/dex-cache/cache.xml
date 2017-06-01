@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e88bcc7479e87e2aa7a36a1add374db5116d4bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f22/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c6f4955e26ffccb2e4947be8eefd02b6680b01ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f71d22d502bd54cfd51f71a31ad73bfb387f17">
+        <dex dex="/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81be9760a105822b2bff4c5870c3a662ce8b11bb/classes.dex" />
+    </item>
+
+</items>
