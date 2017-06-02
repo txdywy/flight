@@ -13,6 +13,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+import com.magua.flashlight.R;
+
 public class MainActivity extends Activity {
 
 	private ImageButton btnSwitch;
@@ -22,12 +27,40 @@ public class MainActivity extends Activity {
 	private boolean hasFlash;
 	private Parameters params;
 	private MediaPlayer mp;
-	//private InterstitialAd mInterstitialAd;
+	private InterstitialAd mInterstitialAd;
+
+	private void requestNewInterstitial() {
+		//Log.d("hahaha", AdRequest.DEVICE_ID_EMULATOR);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mInterstitialAd.loadAd(adRequest);
+	}
+
+	public void showInterAd() {
+		if (mInterstitialAd.isLoaded()) {
+			mInterstitialAd.show();
+			Log.d("hahaha", "ad 111 ready");
+		}
+		else{
+			Log.d("hahaha", "ad 222 not ready");
+		}
+	}
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		mInterstitialAd = new InterstitialAd(this);
+		mInterstitialAd.setAdUnitId("ca-app-pub-8217481143192443/2476561014");
+
+		mInterstitialAd.setAdListener(new AdListener() {
+			@Override
+			public void onAdClosed() {
+				requestNewInterstitial();
+				Log.d("hahaha", "ad closed");
+			}
+		});
+		requestNewInterstitial();
 
 		// flash switch button
 		btnSwitch = (ImageButton) findViewById(R.id.btnSwitch);
@@ -71,6 +104,7 @@ public class MainActivity extends Activity {
 				if (isFlashOn) {
 					// turn off flash
 					turnOffFlash();
+					showInterAd();
 				} else {
 					// turn on flash
 					turnOnFlash();

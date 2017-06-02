@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "80051190010",
+    "firebase_url": "https://flashlight1-c73b8.firebaseio.com",
+    "project_id": "flashlight1-c73b8",
+    "storage_bucket": "flashlight1-c73b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80051190010:android:b32339665b20580e",
+        "android_client_info": {
+          "package_name": "com.magua.flashlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80051190010-uuk5u3fvbqppp5er344vcvm3bgd5eu6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsfj2AV8ljO34lOU60vLzJK5Dd-HP8W3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
