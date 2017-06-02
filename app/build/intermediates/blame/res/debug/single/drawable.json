@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    }
+]

@@ -4,11 +4,27 @@
         "source": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/src/main/res/drawable-hdpi/btn_switch_off.png"
     },
     {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-hdpi/bk.png",
+        "source": "/home/f22/flight/app/src/main/res/drawable-hdpi/bk.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_off.png",
+        "source": "/home/f22/flight/app/src/main/res/drawable-hdpi/btn_switch_off.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_on.png",
+        "source": "/home/f22/flight/app/src/main/res/drawable-hdpi/btn_switch_on.png"
+    },
+    {
         "merged": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_switch_on.png",
         "source": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/src/main/res/drawable-hdpi/btn_switch_on.png"
     },
     {
         "merged": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/f22/flight/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]

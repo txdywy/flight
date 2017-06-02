@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/f22/.android/build-cache/769aa40b345b3d9eab0c52c9edcd9dce070da9f2/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    }
+]

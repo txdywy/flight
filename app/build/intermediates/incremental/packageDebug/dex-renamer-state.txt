@@ -1,7 +1,4 @@
-#Thu Jun 01 18:08:38 CST 2017
-base.0=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e88bcc7479e87e2aa7a36a1add374db5116d4bf
-renamed.1=classes2.dex
+#Fri Jun 02 11:48:17 CST 2017
+base.0=/home/f22/flight/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81be9760a105822b2bff4c5870c3a662ce8b11bb/classes.dex
-base.1=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81be9760a105822b2bff4c5870c3a662ce8b11bb
-file.0=/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e88bcc7479e87e2aa7a36a1add374db5116d4bf/classes.dex
+file.0=/home/f22/flight/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

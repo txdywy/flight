@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 	private boolean hasFlash;
 	private Parameters params;
 	private MediaPlayer mp;
+	//private InterstitialAd mInterstitialAd;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

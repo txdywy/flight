@@ -5,9 +5,11 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.tag.flash"
+        applicationId "com.magua.flashlight"
         minSdkVersion 8
         targetSdkVersion 17
+        versionCode 10
+        versionName "1.0"
     }
 
     buildTypes {
@@ -20,4 +22,7 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.firebase:firebase-ads:10.2.0'
 }
+
+apply plugin: 'com.google.gms.google-services'

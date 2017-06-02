@@ -2,5 +2,9 @@
     {
         "merged": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
         "source": "/home/f22/Desktop/Android--Flash-Light--Demo-project-master/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/home/f22/flight/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/home/f22/flight/app/src/main/res/menu/activity_main.xml"
     }
 ]
