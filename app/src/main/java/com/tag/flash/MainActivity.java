@@ -103,8 +103,8 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				if (isFlashOn) {
 					// turn off flash
-					turnOffFlash();
 					showInterAd();
+					turnOffFlash();
 				} else {
 					// turn on flash
 					turnOnFlash();
@@ -226,8 +226,8 @@ public class MainActivity extends Activity {
 		super.onResume();
 
 		// on resume turn on the flash
-		if (hasFlash)
-			turnOnFlash();
+		//if (hasFlash)
+		//	turnOnFlash();
 	}
 
 	@Override
