@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 
 		mInterstitialAd = new InterstitialAd(this);
-		mInterstitialAd.setAdUnitId("ca-app-pub-8217481143192443/2476561014");
+		mInterstitialAd.setAdUnitId("ca-app-pub-7011074838260161/1332868335");
 
 		mInterstitialAd.setAdListener(new AdListener() {
 			@Override
