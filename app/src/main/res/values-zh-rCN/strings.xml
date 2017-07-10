@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">超级手电筒-Flashlight</string>
+    <string name="app_name">酷闪手电筒</string>
     <string name="menu_settings">设置</string>
     <string name="hello_world">你好！</string>
 
