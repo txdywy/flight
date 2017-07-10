@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 	private Parameters params;
 	private MediaPlayer mp;
 	private InterstitialAd mInterstitialAd;
+	private int count=0;
 
 	private void requestNewInterstitial() {
 		//Log.d("hahaha", AdRequest.DEVICE_ID_EMULATOR);
@@ -36,12 +37,15 @@ public class MainActivity extends Activity {
 	}
 
 	public void showInterAd() {
+		this.count++;
+		if (this.count % 5 != 3)
+			return;
 		if (mInterstitialAd.isLoaded()) {
 			mInterstitialAd.show();
-			Log.d("hahaha", "ad 111 ready");
+			Log.d("hahaha", "ad 111 ready " + this.count);
 		}
 		else{
-			Log.d("hahaha", "ad 222 not ready");
+			Log.d("hahaha", "ad 222 not ready " + this.count);
 		}
 	}
 
@@ -122,7 +126,7 @@ public class MainActivity extends Activity {
 				camera = Camera.open();
 				params = camera.getParameters();
 			} catch (RuntimeException e) {
-				Log.e("Camera Error. Failed to Open. Error: ", e.getMessage());
+				Log.e(" Failed to Open. ", e.getMessage());
 			}
 		}
 	}
